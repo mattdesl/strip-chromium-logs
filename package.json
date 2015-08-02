@@ -1,0 +1,46 @@
+{
+  "name": "strip-chromium-logs",
+  "version": "1.0.0",
+  "description": "strips chromium logs from a stream",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "concat-stream": "^1.5.0",
+    "faucet": "0.0.1",
+    "tape": "^4.0.1"
+  },
+  "scripts": {
+    "test": "node test | faucet"
+  },
+  "keywords": [
+    "strip",
+    "chromium",
+    "electron",
+    "log",
+    "logs",
+    "logging",
+    "stderr",
+    "stream",
+    "pipe",
+    "clean",
+    "loggings",
+    "err",
+    "std",
+    "out",
+    "stdout"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/strip-chromium-logs.git"
+  },
+  "homepage": "https://github.com/mattdesl/strip-chromium-logs",
+  "bugs": {
+    "url": "https://github.com/mattdesl/strip-chromium-logs/issues"
+  }
+}

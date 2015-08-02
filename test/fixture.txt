@@ -1,0 +1,13 @@
+http://127.0.0.1:8902/
+start
+[4369:0802/160741:INFO:renderer_main.cc(200)] Renderer process started
+[4370:0802/160741:INFO:renderer_main.cc(200)] Renderer process started
+[4367:0802/160741:INFO:CONSOLE(4)] "function", source: http://127.0.0.1:8902/example/index.js (4)
+frame-finish
+[4372:0802/160744:INFO:renderer_main.cc(200)] Renderer process started
+[4367:0802/160745:WARNING:ipc_message_attachment_set.cc(37)] MessageAttachmentSet destroyed with unconsumed descriptors: 0/1
+[4367:0802/160745:INFO:CONSOLE(8)] "function foo() {
+  console.log("ONE THING")
+  console.log("SECOND LINE")
+}", source: http://127.0.0.1:8902/example/index.js (8)
+bar

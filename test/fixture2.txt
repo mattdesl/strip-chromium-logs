@@ -1,0 +1,18 @@
+[11804:0802/192701:INFO:renderer_main.cc(200)] Renderer process started
+[11803:0802/192701:INFO:renderer_main.cc(200)] Renderer process started
+Hello!
+[11801:0802/192701:INFO:CONSOLE(21)] "Hello!", source: /projects/electron/electron-exec/lib/console.js (21)
+Whats up!
+[11801:0802/192701:INFO:CONSOLE(21)] "Whats up!", source: /projects/electron/electron-exec/lib/console.js (21)
+[11805:0802/192703:INFO:renderer_main.cc(200)] Renderer process started
+[11801:0802/192703:WARNING:ipc_message_attachment_set.cc(37)] MessageAttachmentSet destroyed with unconsumed descriptors: 0/1
+Hello!
+[11801:0802/192703:INFO:CONSOLE(21)] "Hello!", source: /projects/electron/electron-exec/lib/console.js (21)
+Whats up!
+[11801:0802/192703:INFO:CONSOLE(21)] "Whats up!", source: /projects/electron/electron-exec/lib/console.js (21)
+[11809:0802/192708:INFO:renderer_main.cc(200)] Renderer process started
+[11801:0802/192709:WARNING:ipc_message_attachment_set.cc(37)] MessageAttachmentSet destroyed with unconsumed descriptors: 0/1
+Hello!
+[11801:0802/192709:INFO:CONSOLE(21)] "Hello!", source: /projects/electron/electron-exec/lib/console.js (21)
+Whats up!
+[11801:0802/192709:INFO:CONSOLE(21)] "Whats up!", source: /projects/electron/electron-exec/lib/console.js (21)

@@ -6,7 +6,7 @@ module.exports = stripChromiumLogs
 function stripChromiumLogs () {
   var isMultiline = false
   var consoleStart = /^\[.+INFO:CONSOLE\([0-9]+\)\]\s*\"(.*)(\"|$)/
-  var consoleEnd = /\"\, source\: https?\:\/\//
+  var consoleEnd = /\"\, source\: (https?\:\/\/)?/
   var chromiumLogs = /^\[[0-9]+[\/\:]/
 
   var out = through()
